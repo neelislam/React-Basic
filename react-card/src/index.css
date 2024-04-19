@@ -1,0 +1,78 @@
+body{
+  background-color: rgb(21, 19, 22);
+}
+
+.card{
+  border: 1px solid black;
+  border-radius:10px;
+  box-shadow: 5px 5px 5px rgb(77, 67, 216);
+  padding: 20px;
+  margin: 10px;
+  text-align:  center;
+  max-width: 250px;
+  display: inline-block;
+  background-color: rgb(33, 44, 32);
+}
+
+.card .card-image{
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%;
+  margin-bottom: 10px;
+
+}
+
+.card .card-title{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  color: aqua;
+
+}
+
+.card .card-text{
+  font-family: Arial, Helvetica, sans-serif;
+  color: aquamarine;
+}
+
+.card2{
+  border: 1px solid black;
+  border-radius:10px;
+  box-shadow: 5px 5px 5px rgb(77, 67, 216);
+  padding: 20px;
+  margin: 10px;
+  text-align:  center;
+  max-width: 250px;
+  display: inline-block;
+  background-color: rgb(33, 44, 32);
+}
+
+.card2 .card-image2{
+  max-width: 55.6%;
+  height: auto;
+  border-radius: 50%;
+  margin-bottom: 10px;
+
+}
+.card2 .card-title2{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  color: aqua;
+
+}
+
+.card2 .card-text2{
+  font-family: Arial, Helvetica, sans-serif;
+  color: aquamarine;
+}
+
+.card2{
+  border: 1px solid black;
+  border-radius:10px;
+  box-shadow: 5px 5px 5px rgb(77, 67, 216);
+  padding: 20px;
+  margin: 10px;
+  text-align:  center;
+  max-width: 250px;
+  display: inline-block;
+  background-color: rgb(33, 44, 32);
+}
